@@ -27,4 +27,4 @@
  
 - 실습
   - Lab1 : CVM + VPC + Subnet + EIP
-  - Lab2 : DNS + CLB + AS
+  - Lab2 : CLB + WAF + AS
