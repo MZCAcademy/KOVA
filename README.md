@@ -11,7 +11,7 @@
 |2:50 ~ 3:00 | Break Time | - |
 |3:00 ~ 3:30 | Cloud Computing의 주요 서비스 이해 | Henry Trainer |
 |3:30 ~ 3:40 | Break Time | - |
-|3:40 ~ 5:30 | Cloud Lab | Henry Trainer |
+|3:40 ~ 5:30 | Cloud Computing Lab | Henry Trainer |
 |5:30 ~ 6:00 | Wrap-up, Survey | TBC |
 
 - Cloud Computing의 이해
