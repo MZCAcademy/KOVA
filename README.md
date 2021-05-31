@@ -26,5 +26,6 @@
   - Database Resources
  
 - 실습
-  - Lab1 : CVM + VPC + Subnet + EIP
-  - Lab2 : CLB + WAF + AS
+  - Lab1 : Cloud Virtual Machine으로 Web Service 구현하기(CVM + VPC + Subnet + EIP)
+  - Lab2 : Cloud Load Balancer 구현하기
+  - Lab3 : Auto Scaling 구현하기
