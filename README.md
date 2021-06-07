@@ -30,3 +30,4 @@
   - Lab2 : Cloud Load Balancer 구현하기
   - Lab3 : Auto Scaling 구현하기
   - Lab4 : TencentDB for MySQL 다루기
+  - Lab5 : Cloud Object Storage 다루기
